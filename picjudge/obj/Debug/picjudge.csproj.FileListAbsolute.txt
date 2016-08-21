@@ -1,0 +1,9 @@
+c:\users\philt\documents\visual studio 2015\Projects\picjudge\picjudge\bin\Debug\picjudge.exe.config
+c:\users\philt\documents\visual studio 2015\Projects\picjudge\picjudge\bin\Debug\picjudge.exe
+c:\users\philt\documents\visual studio 2015\Projects\picjudge\picjudge\bin\Debug\picjudge.pdb
+c:\users\philt\documents\visual studio 2015\Projects\picjudge\picjudge\obj\Debug\picjudge.Form1.resources
+c:\users\philt\documents\visual studio 2015\Projects\picjudge\picjudge\obj\Debug\picjudge.Properties.Resources.resources
+c:\users\philt\documents\visual studio 2015\Projects\picjudge\picjudge\obj\Debug\picjudge.csproj.GenerateResource.Cache
+c:\users\philt\documents\visual studio 2015\Projects\picjudge\picjudge\obj\Debug\picjudge.exe
+c:\users\philt\documents\visual studio 2015\Projects\picjudge\picjudge\obj\Debug\picjudge.pdb
+C:\Users\philt\Documents\Visual Studio 2015\Projects\picjudge\picjudge\obj\Debug\picjudge.csprojResolveAssemblyReference.cache
